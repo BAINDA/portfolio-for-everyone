@@ -6,8 +6,8 @@ This portfolio template is designed for developers, designers, or anyone who wan
 
 ## 🖥️ Demo
 
-Check out the live demo of this portfolio template:  
-[PortfolioForEveryone Demo](https://freeportfoliogb.netlify.app/)
+Check out the live demo of this portfolio template: 
+✨ [View the Demo](https://freeportfoliogb.netlify.app) ✨
 
 ## 📸 Preview
 
